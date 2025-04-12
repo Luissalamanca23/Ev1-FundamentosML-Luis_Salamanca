@@ -9,3 +9,6 @@ Incluye:
 - Conclusiones sobre la distribución de las ventas y patrones de compra.
 
 [Ver Entrega 1 en Colab](https://colab.research.google.com/github/Luissalamanca23/Ev1-FundamentosML-Luis_Salamanca/blob/main/E_Commerce.ipynb)
+[Ver Entrega Final en Colab](https://colab.research.google.com/github/Luissalamanca23/Ev1-FundamentosML-Luis_Salamanca/blob/main/E_Commerce_Final.ipynb)
+
+[Ver Video Entrega Final](https://drive.google.com/file/d/1IF_lhDVNB9iIQe6tvHskSCTRxRh-I8w9/view?usp=sharing)
